@@ -1,3 +1,2 @@
 spacewc 
-minimal wayland compositor 
-inspired by space and planets XD
+minimal wayland compositor govno ebanoe
